@@ -206,7 +206,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 848998505}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 8849c2b5a57294b5eb098c4301965672, type: 3}
+  m_Script: {fileID: 11500000, guid: ec4cbe1363aa4446cb434dbac493deea, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!4 &848998507
@@ -265,12 +265,12 @@ MonoBehaviour:
   m_GameObject: {fileID: 1446817354}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 65c50a1a071e84483a92cd145ec625e7, type: 3}
+  m_Script: {fileID: 11500000, guid: 00d3e87f9dd6c4535aed2e51b9c2023f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   pools:
   - tag: Cube
-    prefab: {fileID: 6707687619889621568, guid: e3e896c99fe0f44c3966049a06cd5edd, type: 3}
+    prefab: {fileID: 6707687619889621568, guid: 0342e6e8ce9584a1dae71e4add400a8c, type: 3}
     size: 30
 --- !u!1 &1514023218
 GameObject:

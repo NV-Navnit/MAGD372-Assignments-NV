@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/Object Pool.unity
+- path: Assets/Scenes/Shader Graph.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0

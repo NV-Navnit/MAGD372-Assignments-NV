@@ -344,11 +344,11 @@
 -r:"Library/Bee/artifacts/200b0aE.dag/Unity.VSCode.Editor.ref.dll"
 -r:"Library/Bee/artifacts/200b0aE.dag/UnityEditor.UI.ref.dll"
 -r:"Library/Bee/artifacts/200b0aE.dag/UnityEngine.UI.ref.dll"
-"Assets/CubeScript.cs"
-"Assets/IPulledObject.cs"
-"Assets/ObjectPool.cs"
-"Assets/ObjectPool2.cs"
-"Assets/Spawner.cs"
+"Assets/Object Pool Assets/CubeScript.cs"
+"Assets/Object Pool Assets/IPulledObject.cs"
+"Assets/Object Pool Assets/ObjectPool.cs"
+"Assets/Object Pool Assets/ObjectPool2.cs"
+"Assets/Object Pool Assets/Spawner.cs"
 -langversion:9.0
 
 /deterministic

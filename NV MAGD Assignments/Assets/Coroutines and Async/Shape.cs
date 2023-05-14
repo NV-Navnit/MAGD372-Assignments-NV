@@ -19,7 +19,7 @@ public class Shape : MonoBehaviour
 
     }
 
-     public IEnumerator ChangeColor()
+    /* public IEnumerator ChangeColor()
     {
         Renderer ren;
         if (Input.GetKey("up"))
@@ -29,6 +29,6 @@ public class Shape : MonoBehaviour
         }
 
 
-    }
+    }*/
     
 }

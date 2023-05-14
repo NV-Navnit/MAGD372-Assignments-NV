@@ -349,6 +349,8 @@
 "Assets/Object Pool Assets/ObjectPool.cs"
 "Assets/Object Pool Assets/ObjectPool2.cs"
 "Assets/Object Pool Assets/Spawner.cs"
+"Assets/Procedural Generation/Path.cs"
+"Assets/Procedural Generation/WorldGenerator.cs"
 -langversion:9.0
 
 /deterministic

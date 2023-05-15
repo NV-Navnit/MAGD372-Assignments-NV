@@ -356,6 +356,8 @@
 "Assets/Object Pool Assets/Spawner.cs"
 "Assets/Procedural Generation/Path.cs"
 "Assets/Procedural Generation/WorldGenerator.cs"
+"Assets/Quaternions and Lerp/LerpRotation.cs"
+"Assets/Quaternions and Lerp/LightLerp.cs"
 "Assets/Scene Transition/CubeMovement.cs"
 "Assets/Scene Transition/LevelControl.cs"
 "Assets/Scene Transition/PlayerControllerSceneTransition.cs"
